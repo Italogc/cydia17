@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://icon-library.com/images/cydia-icon/cydia-icon-12.jpg</string>
+					<string>https://styles.redditmedia.com/t5_758z63/styles/communityIcon_8bb24akt9phb1.png?width=256&s=d5768f7dc11c489a0f8b502aed14f8ff801e291f</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://icon-library.com/images/cydia-icon/cydia-icon-12.jpg</string>
+					<string>https://styles.redditmedia.com/t5_758z63/styles/communityIcon_8bb24akt9phb1.png?width=256&s=d5768f7dc11c489a0f8b502aed14f8ff801e291f</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://icon-library.com/images/cydia-icon/cydia-icon-12.jpg</string>
+					<string>https://styles.redditmedia.com/t5_758z63/styles/communityIcon_8bb24akt9phb1.png?width=256&s=d5768f7dc11c489a0f8b502aed14f8ff801e291f</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.saurik.cydia</string>
+				<string>com.palera1n.palera1n</string>
 				<key>bundle-version</key>
-				<string>0.9</string>
+				<string>9.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Cydia</string>
+				<string>Palera1n</string>
 			</dict>
 		</dict>
 	</array>
