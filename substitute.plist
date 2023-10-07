@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://icon-library.com/images/cydia-icon/cydia-icon-12.jpg</string>
+					<string>https://zunda-hack.com/wp-content/uploads/2021/01/D09E7BDA-03C1-46D0-B6B7-6DEBCFEC51B6.jpeg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://icon-library.com/images/cydia-icon/cydia-icon-12.jpg</string>
+					<string>https://zunda-hack.com/wp-content/uploads/2021/01/D09E7BDA-03C1-46D0-B6B7-6DEBCFEC51B6.jpeg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://icon-library.com/images/cydia-icon/cydia-icon-12.jpg</string>
+					<string>https://zunda-hack.com/wp-content/uploads/2021/01/D09E7BDA-03C1-46D0-B6B7-6DEBCFEC51B6.jpeg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.saurik.cydia</string>
+				<string>com.substeam.substitute</string>
 				<key>bundle-version</key>
-				<string>0.9</string>
+				<string>5.4.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Cydia</string>
+				<string>Substitute</string>
 			</dict>
 		</dict>
 	</array>
