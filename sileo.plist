@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.saurik.cydia</string>
+				<string>org.coolstar.SileoStore</string>
 				<key>bundle-version</key>
 				<string>6.0</string>
 				<key>kind</key>
